@@ -23,7 +23,7 @@
                 alert("找不到此用户请核实您的用户名！");
             }
             if(result.status == "passwordError")
-                alert("密码错误！出差出差错")
+                alert("密码错误！出差出搜索")
         }
 
     })
